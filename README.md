@@ -8,7 +8,7 @@ Simple is a static blog generator with a single static page. You can write you b
 
 [Blog demo](http://isnowfy.github.io/)
 
-[Lightweight markdown editor](http://isnowfy.github.io/simple/editor.html)
+[Lightweight markdown editor](http://isnowfy.github.io/simple/editor.html) 
 
 ## Usage
 
@@ -24,7 +24,7 @@ With Simple and github pages you can easily create your static blog. Here is wha
 
 ![simple](http://isnowfy.github.io/img/Simple.png)
 
-* You can use your own blog name, just modify the `main.json` file, and change `name="username"`.
+* You can use your own blog name, just modify the `main.json` file, and change `name="username"`.s
 
 * You can use disqus comment system, just modify the `main.json` file, and change `disqus_shortname=""` to `disqus_shortname="your_shortname"`.
 
